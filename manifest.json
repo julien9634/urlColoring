@@ -1,0 +1,6 @@
+  {
+    "name": "urlColoring",
+    "version": "1.0",
+    "description": "This extension will show url in specific color according to the dev environment",
+    "manifest_version": 2
+  }
